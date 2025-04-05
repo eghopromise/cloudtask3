@@ -1,0 +1,1 @@
+<h1> Welcome to cloud computing practical session</h1>
